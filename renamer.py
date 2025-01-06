@@ -1,7 +1,7 @@
 # simply renames files so you don't have to do it manually to a whole directory
 
 import os
-path = '/home/user/directory/anotherDirectory/'
+path = '/home/peter/Coding/python/python_projects/mass_file_renamer/renamed'
 files = os.listdir(path)
 
 
